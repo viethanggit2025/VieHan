@@ -1,0 +1,30 @@
+body {
+    background-color: #1e00ff; /* Màu xanh nền */
+    color: white;
+}
+.navbar-custom {
+    padding: 10px 0;
+}
+.logo img {
+   width: 250px;
+   height: 60px;
+    text-align: center;
+}
+.search-cart {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 15px;
+}
+.search-cart input {
+    width: 100%;
+    border-radius: 20px;
+    padding: 5px 10px;
+    border: none;
+}
+.icon-btn {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 35px;
+}
